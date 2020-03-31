@@ -1207,10 +1207,10 @@ input[type="radio"] + label:before {
       display: block;
       width: 100%; }
   .image.avatar {
-    border-radius: 100%;
+    border-radius: 0%;
     overflow: hidden; }
     .image.avatar img {
-      border-radius: 100%;
+      border-radius: 0%;
       display: block;
       width: 100%; }
   .image.main {
@@ -1566,7 +1566,7 @@ input[type="button"],
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #4acaa8;
+  background: rgb(139, 112, 143);
   color: #d2f2e9;
   height: 100%;
   overflow-y: auto;
