@@ -126,6 +126,19 @@ h3 {
   font-size: 1.75em;
   line-height: 1.5em; }
 
+.font_emp {
+  color: #F9A825;
+}
+
+.user-state{
+  border: 1px solid black;
+  width: 80%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h4 {
   font-size: 1.25em;
   line-height: 1.5em; }
