@@ -142,7 +142,7 @@
 	}
 
 	strong, b {
-		color: _palette(fg-bold);
+		color: #F57F17;
 		font-weight: _font(weight-bold);
 	}
 
@@ -1188,8 +1188,7 @@
 			}
 
 			p {
-				color: _palette(header, fg);
-				font-style: italic;
+				color: gray;
 				margin: 1em 0 0 0;
 			}
 		}
